@@ -1,30 +1,31 @@
 export const generalData = {
-  name: "John Doe",
-  avatar: "https://github.com/ibelick.png",
-  jobTitle: "Senior Front-End Developer",
-  website: "https://www.julienthibeaut.xyz",
+  name: "Yufei Ma",
+  avatar: "/profile.jpg",
+  jobTitle: "Data Scientist, Student",
+  website: "https://www.yufeima.me",
   about:
-    "Hey there! I'm John, a senior front-end developer with 10 years of experience in web development.",
+    "Hi, it's Yufei! I'm currently a Master student at Boston University, and I'm seeking a 2024 data scientist or machine learning engineer summer internship ",
   contacts: [
     {
       label: "Email",
-      value: "john.doe@gmail.com",
-      href: "mailto:john.doe@gmail.com",
+      value: "moana.yf@gmail.com",
+      href: "mailto:moana.yf@gmail.com",
     },
     {
       label: "Twitter",
-      value: "ibelick",
-      href: "https://twitter.com/ibelick",
+      value: "yufei_m",
+      href: "https://twitter.com/yufei_m",
     },
     {
       label: "Github",
-      value: "ibelick",
-      href: "https://github.com/ibelick",
+      value: "moana-yf",
+      href: "https://github.com/moana-yf",
     },
     {
-      label: "Read.CV",
-      value: "ibelick",
-      href: "https://read.cv/ibelick",
-    },
+      label: "LinkedIn",
+      value: "mayufei23",
+      href: "https://www.linkedin.com/in/mayufei23/",
+    }
+
   ],
 };
