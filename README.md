@@ -1,4 +1,4 @@
-# Next.js Resume Template
+# Yufei Ma
 
 This is a free, open-source resume template inspired by [read.cv](https://read.cv/). It's built with [Next.js 13](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [TypeScript](https://www.typescriptlang.org/). It also includes a dark mode and is optimized for SEO.
 
