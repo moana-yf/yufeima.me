@@ -8,6 +8,7 @@ import { Analytics } from '@vercel/analytics/react';
 
 const inter = Inter({ subsets: ["latin"] });
 
+// trigger redeploy
 export const metadata: Metadata = {
   title: `${generalData.name} - ${generalData.jobTitle}`,
   description: generalData.about,
