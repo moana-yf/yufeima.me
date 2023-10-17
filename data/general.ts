@@ -25,6 +25,11 @@ export const generalData = {
       label: "LinkedIn",
       value: "mayufei23",
       href: "https://www.linkedin.com/in/mayufei23/",
+    },
+    {
+      label: "Resume",
+      value: "Yufei_MA_1003_MLE.pdf",
+      href: "https://www.yufeima.me/Yufei_MA_1003_MLE.pdf"
     }
 
   ],
